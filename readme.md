@@ -1,4 +1,4 @@
-# Home IP Blacklists
+# IP Blacklists
 
 This repo holds IP blocklists I use at home to keep out known bad actors — stuff like malware servers, brute force bots, scanners, and compromised hosts.
 
@@ -10,7 +10,7 @@ These lists are updated regularly and are meant to be simple, reliable, and not 
 
 The IP addresses are split into /lists and /ranges for easy use. 
 
-# IP Blacklist Sources
+# Blacklist Sources
 
 This repository aggregates various publicly available IP blocklists.
 
