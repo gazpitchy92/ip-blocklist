@@ -1,3 +1,15 @@
+# Home IP Blacklists
+
+This repo holds IP blocklists I use at home to keep out known bad actors — stuff like malware servers, brute force bots, scanners, and compromised hosts.
+
+The aim is to block the dangerous stuff without breaking normal use. VPNs, Tor, and other critical connections are left alone so privacy tools and remote access still work properly.
+
+I also run an IPS and a honeypot locally. Any IPs that show up hitting those get added too.
+
+These lists are updated regularly and are meant to be simple, reliable, and not overblock legit traffic. Use them with firewalls, routers, or anything else that can work with plain IP lists.
+
+The IP addresses are split into /lists and /ranges for easy use. 
+
 # IP Blacklist Sources
 
 This repository aggregates various publicly available IP blocklists.
