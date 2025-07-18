@@ -38,7 +38,7 @@ sudo apt install iptables ipset
 
 # Blocklist Sources
 
-| Source Name                        | URL |
+| Source Name                       | URL |
 |-----------------------------------|-----|
 | DShield                           | https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/dshield.netset |
 | Emerging Threats - Known          | https://opendbl.net/lists/etknown.list |
@@ -54,13 +54,13 @@ sudo apt install iptables ipset
 | AlienVault Reputation             | http://reputation.alienvault.com/reputation.data |
 | BBcan177 Gist                     | https://gist.githubusercontent.com/BBcan177/bf29d47ea04391cb3eb0/raw/ |
 | Hancitor IPs                      | https://raw.githubusercontent.com/LinuxTracker/Blocklists/master/HancitorIPs.txt |
-| ShadowWhisperer - Scanners       | https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Other/Scanners |
-| ShadowWhisperer - BruteForce High| https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/BruteForce/High |
-| ShadowWhisperer - Hackers        | https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Malware/Hackers |
-| ShadowWhisperer - Malware Hosting| https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Malware/Hosting |
+| ShadowWhisperer - Scanners        | https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Other/Scanners |
+| ShadowWhisperer - BruteForce High | https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/BruteForce/High |
+| ShadowWhisperer - Hackers         | https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Malware/Hackers |
+| ShadowWhisperer - Malware Hosting | https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Malware/Hosting |
 | Binary Defense                    | https://www.binarydefense.com/banlist.txt |
 | BDS Atif                          | https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bds_atif.ipset |
-| BruteforceBlocker                | https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bruteforceblocker.ipset |
+| BruteforceBlocker                 | https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bruteforceblocker.ipset |
 | Cruzit Web Attacks                | https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_cruzit_web_attacks.netset |
 | Rulez Bruteforce                  | https://danger.rulez.sk/projects/bruteforceblocker/blist.php |
 | Emerging Threats - Compromised IPs| https://rules.emergingthreats.net/blockrules/compromised-ips.txt |
@@ -87,3 +87,10 @@ sudo apt install iptables ipset
 | Blocklist.de - Last 12 Hours      | https://api.blocklist.de/getlast.php?time=43200 |
 | SANS ISC Blocklist                | https://isc.sans.edu/block.txt |
 | MattyRoberts.io Threatlist        | https://www.mattyroberts.io/api/threatlist/latest |
+| ShadowServer - Scanning addresses | https://raw.githubusercontent.com/NoahVail/BadIPs/refs/heads/main/shadowserver.txt |
+| NoachVail - Leakix scanners       | https://raw.githubusercontent.com/NoahVail/BadIPs/refs/heads/main/leakix.txt |
+| shodan.io scanners                | Scraping shodan.io domains |
+| Lupovis.io - Threat List API      | https://prowl.lupovis.io/api/GetIndustryInsights |
+| AbuseIDB blacklist                | https://api.abuseipdb.com/api/v2/blacklist |
+| HoneyDB.io bas hosts              | https://honeydb.io/api/bad-hosts |
+| ipblocklist.com                   | https://ipblocklist.com/iptables.php |
