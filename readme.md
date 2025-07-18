@@ -19,6 +19,25 @@ A bash script for automating the blocklists into IPtables, using ipset, is avail
 
 This script downloads the current list and range from this repo, adds them into ipset groups of 20000, and adds them as DROP rules for iptables.
 
+### Dependencies for iptables.sh
+
+- iptables
+- ipset
+
+---
+
+**Arch:**
+
+```bash
+sudo pacman -S iptables ipset
+```
+
+**Debian/Ubuntu:**
+
+```bash
+sudo apt install iptables ipset
+```
+
 # Blocklist Sources
 
 | Source Name                        | URL |
