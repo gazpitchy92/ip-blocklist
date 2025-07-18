@@ -20,7 +20,6 @@ A list formatted for Adguard/UBlock is also available [here](https://github.com/
 | DShield                           | https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/dshield.netset |
 | Emerging Threats - Known          | https://opendbl.net/lists/etknown.list |
 | Emerging Threats - Brute Force    | https://opendbl.net/lists/bruteforce.list |
-| Blocklist.de (All)                | https://opendbl.net/lists/blocklistde-all.list |
 | Ipsum Threat List                 | https://opendbl.net/lists/ipsum.list |
 | CI Army                           | https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/ciarmy.ipset |
 | Malc0de                           | https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_malc0de.netset |
