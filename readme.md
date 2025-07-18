@@ -10,7 +10,7 @@ These lists are updated regularly and are meant to be simple, reliable, and not 
 
 The IP addresses are split into /lists and /ranges for easy use. 
 
-# Blacklist Sources
+# Blocklist Sources
 
 This repository aggregates various publicly available IP blocklists.
 
