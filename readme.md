@@ -3,13 +3,11 @@
 
 # IP Blocklists
 
-This repo holds IP blocklists I use at home to keep out known bad actors. 
+This repository contains curated IP blocklists designed to help block known malicious actors while minimizing disruption to normal internet use.
 
-The aim is to block the dangerous stuff without breaking normal use. VPNs, Tor, and other critical connections are left alone so privacy tools and remote access still work properly.
+The goal is to block harmful traffic without interfering with privacy tools such as VPNs and Tor, or with legitimate remote access. The blocklists also incorporate IPs detected by a local IPS and honeypot setup.
 
-I also run an IPS and a honeypot locally, any IPs that show up hitting those get added too.
-
-These lists are updated regularly and are meant to be simple, reliable, and not overblock legit traffic. Use them with firewalls, routers, or anything else that can work with plain IP lists.
+Lists are regularly updated, aiming to be simple, reliable, and avoid overblocking. They are intended for use with firewalls, routers, or any system that supports plain IP list blocking.
 
 The IP addresses are split into [lists](https://github.com/gazpitchy92/ip-blocklist/tree/main/list) and [ranges](https://github.com/gazpitchy92/ip-blocklist/tree/main/range) for easy use.
 
