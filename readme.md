@@ -1,5 +1,5 @@
-#### Blocked IP: 390701
-#### Blocked Ranges: 1803
+#### Blocked IP Addresses: 390701
+#### Blocked IP Ranges: 1803
 
 # IP Blocklists
 
