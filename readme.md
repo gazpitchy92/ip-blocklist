@@ -11,7 +11,7 @@ I also run an IPS and a honeypot locally, any IPs that show up hitting those get
 
 These lists are updated regularly and are meant to be simple, reliable, and not overblock legit traffic. Use them with firewalls, routers, or anything else that can work with plain IP lists.
 
-The IP addresses are split into /lists and /ranges for easy use. 
+The IP addresses are split into [lists](https://github.com/gazpitchy92/ip-blocklist/tree/main/list) and [ranges](https://github.com/gazpitchy92/ip-blocklist/tree/main/range) for easy use.
 
 # Blocklist Sources
 
