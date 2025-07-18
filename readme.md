@@ -1,8 +1,7 @@
+#### Blocked Addresses: 390701
+#### Blocked Ranges: 1803
+
 # IP Blocklists
-
-### Blocked Addresses: 390701
-
-### Blocked Ranges: 1803
 
 This repo holds IP blocklists I use at home to keep out known bad actors. 
 
