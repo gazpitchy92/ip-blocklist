@@ -15,7 +15,7 @@ A list formatted for Adguard/UBlock is also available [here](https://github.com/
 
 # IPtables
 
-A bash script for automating the blocklists into IPtables, using ipset, is available [here](https://github.com/gazpitchy92/ip-blocklist/blob/main/iptables/sh).
+A bash script for automating the blocklists into IPtables, using ipset, is available [here](https://github.com/gazpitchy92/ip-blocklist/blob/main/iptables.sh).
 
 This script downloads the current list and range from this repo, splits them into ipset groups of 20000, and adds them as DROP rules for iptables.
 
