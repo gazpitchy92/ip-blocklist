@@ -56,7 +56,6 @@ sudo apt install iptables ipset
 | Hancitor IPs                      | https://raw.githubusercontent.com/LinuxTracker/Blocklists/master/HancitorIPs.txt |
 | ShadowWhisperer - Scanners       | https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Other/Scanners |
 | ShadowWhisperer - BruteForce High| https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/BruteForce/High |
-| ShadowWhisperer - BruteForce Extreme | https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/BruteForce/Extreme |
 | ShadowWhisperer - Hackers        | https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Malware/Hackers |
 | ShadowWhisperer - Malware Hosting| https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Malware/Hosting |
 | Binary Defense                    | https://www.binarydefense.com/banlist.txt |
