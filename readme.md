@@ -1,5 +1,8 @@
 # IP Blocklists
 
+Blocked Addresses: 390701
+Blocked Ranges: 1803
+
 This repo holds IP blocklists I use at home to keep out known bad actors. 
 
 The aim is to block the dangerous stuff without breaking normal use. VPNs, Tor, and other critical connections are left alone so privacy tools and remote access still work properly.
