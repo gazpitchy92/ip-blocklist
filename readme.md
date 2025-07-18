@@ -13,6 +13,12 @@ The IP addresses are split into [lists](https://github.com/gazpitchy92/ip-blockl
 
 A list formatted for Adguard/UBlock is also available [here](https://github.com/gazpitchy92/ip-blocklist/blob/main/list/ublock_adguard_blacklist.txt). 
 
+# IPtables
+
+A bash script for automating the blocklists into IPtables, using ipset, is available here [here](https://github.com/gazpitchy92/ip-blocklist/blob/main/iptables/sh).
+
+This script downloads the current list and range from this repo, adds them into ipset groups of 20000, and adds them as DROP rules for iptables.
+
 # Blocklist Sources
 
 | Source Name                        | URL |
