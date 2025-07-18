@@ -1,4 +1,4 @@
-# IP Blacklists
+# IP Blocklists
 
 This repo holds IP blocklists I use at home to keep out known bad actors — stuff like malware servers, brute force bots, scanners, and compromised hosts.
 
