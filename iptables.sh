@@ -24,8 +24,8 @@ blacklist_ip(){
             ((count++))
             echo "Progress: $count/$total IPs"
         done < "/tmp/blacklist_list.txt"
+        rm /tmp/blacklist_list.txt
         echo "Done. Added $count IPs to blacklist"
-        sleep 15
     fi
 }
 
@@ -53,8 +53,8 @@ blacklist_range() {
             ((count++))
             echo "Progress: $count/$total IPs"
         done < "/tmp/blacklist_range.txt"
+        rm /tmp/blacklist_range.txt
         echo "Done. Added $count Ranges to blacklist"
-        sleep 15
     fi
 }
 
