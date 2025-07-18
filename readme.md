@@ -13,6 +13,8 @@ These lists are updated regularly and are meant to be simple, reliable, and not 
 
 The IP addresses are split into [lists](https://github.com/gazpitchy92/ip-blocklist/tree/main/list) and [ranges](https://github.com/gazpitchy92/ip-blocklist/tree/main/range) for easy use.
 
+A list formatted for Adguard/UBlock is also available [here](https://github.com/gazpitchy92/ip-blocklist/blob/main/list/ublock_adguard_blacklist.txt). 
+
 # Blocklist Sources
 
 This repository aggregates various publicly available IP blocklists.
