@@ -92,5 +92,5 @@ sudo apt install iptables ipset
 | shodan.io scanners                | Scraping shodan.io domains |
 | Lupovis.io - Threat List API      | https://prowl.lupovis.io/api/GetIndustryInsights |
 | AbuseIDB blacklist                | https://api.abuseipdb.com/api/v2/blacklist |
-| HoneyDB.io bas hosts              | https://honeydb.io/api/bad-hosts |
+| HoneyDB.io bad hosts              | https://honeydb.io/api/bad-hosts |
 | ipblocklist.com                   | https://ipblocklist.com/iptables.php |
