@@ -15,8 +15,6 @@ A list formatted for Adguard/UBlock is also available [here](https://github.com/
 
 # Blocklist Sources
 
-This repository aggregates various publicly available IP blocklists.
-
 | Source Name                        | URL |
 |-----------------------------------|-----|
 | DShield                           | https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/dshield.netset |
