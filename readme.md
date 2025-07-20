@@ -1,4 +1,4 @@
-#### Blocked IP Addresses: 379103
+#### Blocked IP Addresses: 389557
 #### Blocked IP Ranges: 1798
 
 # IP Blocklists
