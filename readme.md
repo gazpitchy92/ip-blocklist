@@ -69,7 +69,6 @@ sudo apt install iptables ipset
 | Feodo Tracker                     | https://feodotracker.abuse.ch/downloads/ipblocklist_aggressive.txt |
 | Botvrij                           | http://www.botvrij.eu/data/ioclist.ip-dst.raw |
 | Naunter BT Blocklist              | https://raw.githubusercontent.com/Naunter/BT_BlockLists/refs/heads/master/list_1.txt |
-| Sequoia Honeypot Blocklist        | https://raw.githubusercontent.com/SequoiaIT-Devs/honeypot-blocklist/refs/heads/main/Unauthorized%20Access%20Blocklist |
 | Spamhaus DROP                     | https://www.spamhaus.org/drop/drop.txt |
 | Interserver                       | https://sigs.interserver.net/ip.txt |
 | Emerging Threats - FW Rules       | https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt |
