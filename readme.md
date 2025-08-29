@@ -1,5 +1,5 @@
-#### Blocked IP Addresses: 383629
-#### Blocked IP Ranges: 1818
+#### Blocked IP Addresses: 391827
+#### Blocked IP Ranges: 1822
 
 # IP Blocklists
 
