@@ -1,4 +1,4 @@
-#### Blocked IP Addresses: 314900
+#### Blocked IP Addresses: 329823
 #### Blocked IP Ranges: 2021
 
 # IP Blocklists
