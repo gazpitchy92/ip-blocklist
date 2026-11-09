@@ -1,5 +1,5 @@
-#### Blocked IP Addresses: 378235
-#### Blocked IP Ranges: 2139
+#### Blocked IP Addresses: 408666
+#### Blocked IP Ranges: 2143
 
 # IP Blocklists
 
